@@ -44,7 +44,7 @@
         },
         {
           "name": "IRON",
-          "enabled": true,
+          "enabled": false,
           "vccint": 835,
           "vcchbm": 1000,
           "cclock": 750,
@@ -171,7 +171,7 @@
         },
         {
           "name": "IRON",
-          "enabled": true,
+          "enabled": false,
           "vccint": 900,
           "vcchbm": 1000,
           "cclock": 830,
